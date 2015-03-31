@@ -8,6 +8,9 @@ Ekta is based off the OpenType features found in Pria Ravichadran's Palanquin fo
 
 Initially the design's widths are heart lines also come from interpreting Palanquin. 
 
-Deviations from Palanquin have begun to appear to find more typical or orthodox shapes or to accomodate the density of the brush.
+Deviations from Palanquin's structure have begun to appear when the density of the brush strokes dictate wider spacing. 
 
+The brush used to stroke the hartline comes from the bush tracing option in the expand path feature found in Fontlab Studio. The settings used are Width: 93, Angle: -55, and Roundness: 35.
+
+In general the solutions offered are focused on designing the paths so that the brush stoking the path works. Where this is not satisfying manual adjustments will be made.
 

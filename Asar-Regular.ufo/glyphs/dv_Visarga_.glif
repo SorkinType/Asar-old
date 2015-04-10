@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Visarga" format="1">
+  <advance width="157"/>
+  <unicode hex="0903"/>
+  <outline>
+    <component base="dv_Highspacedot" xOffset="-16" yOffset="168"/>
+    <component base="dv_Highspacedot" xOffset="-16" yOffset="-169"/>
+  </outline>
+</glyph>

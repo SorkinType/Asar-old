@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="569"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="225" y="-17" type="line" name="hr00"/>
+      <point x="227" y="-23"/>
+      <point x="249" y="-26"/>
+      <point x="284" y="-26" type="curve" smooth="yes"/>
+      <point x="314" y="-26"/>
+      <point x="338" y="-23"/>
+      <point x="343" y="-17" type="curve"/>
+      <point x="507" y="309" type="line"/>
+      <point x="342" y="635" type="line"/>
+      <point x="340" y="641"/>
+      <point x="318" y="644"/>
+      <point x="286" y="644" type="curve" smooth="yes"/>
+      <point x="253" y="644"/>
+      <point x="229" y="641"/>
+      <point x="224" y="635" type="curve"/>
+      <point x="62" y="309" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="21" type="curve"/>
+      <point x="248" y="106"/>
+      <point x="179" y="240"/>
+      <point x="136" y="305" type="curve"/>
+      <point x="178" y="371"/>
+      <point x="250" y="518"/>
+      <point x="285" y="597" type="curve"/>
+      <point x="319" y="511"/>
+      <point x="391" y="377"/>
+      <point x="430" y="313" type="curve"/>
+      <point x="392" y="247"/>
+      <point x="317" y="99"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xNyIgd2lkdGg9IjM4IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI1OTciIHdpZHRoPSIzOCIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iNjIiIHdpZHRoPSI0
+NDUiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50
+U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

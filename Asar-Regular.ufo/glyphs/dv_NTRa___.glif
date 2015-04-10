@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_NTRa" format="1">
+  <advance width="880"/>
+  <outline>
+    <contour>
+      <point x="169" y="291" type="curve" name="hr01"/>
+      <point x="172" y="292"/>
+      <point x="176" y="294"/>
+      <point x="178" y="297" type="curve"/>
+      <point x="178" y="378" type="line"/>
+      <point x="377" y="378" type="line" smooth="yes"/>
+      <point x="389" y="378"/>
+      <point x="429" y="401"/>
+      <point x="447" y="406" type="curve" smooth="yes"/>
+      <point x="462" y="410"/>
+      <point x="478" y="412"/>
+      <point x="493" y="412" type="curve" smooth="yes" name="hr02"/>
+      <point x="558" y="412"/>
+      <point x="623" y="378"/>
+      <point x="666" y="328" type="curve"/>
+      <point x="573" y="272"/>
+      <point x="477" y="220"/>
+      <point x="385" y="162" type="curve" smooth="yes"/>
+      <point x="381" y="159"/>
+      <point x="380" y="155"/>
+      <point x="380" y="150" type="curve" smooth="yes"/>
+      <point x="380" y="127"/>
+      <point x="413" y="85"/>
+      <point x="434" y="85" type="curve" smooth="yes"/>
+      <point x="434" y="85"/>
+      <point x="435" y="85"/>
+      <point x="436" y="85" type="curve" smooth="yes"/>
+      <point x="519" y="137"/>
+      <point x="606" y="184"/>
+      <point x="691" y="235" type="curve"/>
+      <point x="691" y="33" type="line"/>
+      <point x="693" y="19"/>
+      <point x="722" y="-36"/>
+      <point x="741" y="-36" type="curve" smooth="yes"/>
+      <point x="745" y="-36"/>
+      <point x="748" y="-34"/>
+      <point x="751" y="-29" type="curve"/>
+      <point x="751" y="603" type="line" smooth="yes"/>
+      <point x="751" y="605"/>
+      <point x="751" y="607"/>
+      <point x="750" y="609" type="curve"/>
+      <point x="901" y="609" type="line"/>
+      <point x="907" y="610"/>
+      <point x="910" y="614"/>
+      <point x="910" y="620" type="curve" smooth="yes"/>
+      <point x="910" y="641"/>
+      <point x="875" y="684"/>
+      <point x="856" y="687" type="curve"/>
+      <point x="-26" y="687" type="line"/>
+      <point x="-31" y="684"/>
+      <point x="-32" y="680"/>
+      <point x="-32" y="675" type="curve" smooth="yes"/>
+      <point x="-32" y="652"/>
+      <point x="4" y="615"/>
+      <point x="19" y="609" type="curve"/>
+      <point x="691" y="609" type="line"/>
+      <point x="691" y="352" type="line"/>
+      <point x="629" y="427"/>
+      <point x="542" y="490"/>
+      <point x="443" y="490" type="curve" smooth="yes"/>
+      <point x="417" y="490"/>
+      <point x="390" y="482"/>
+      <point x="367" y="473" type="curve" smooth="yes"/>
+      <point x="357" y="469"/>
+      <point x="341" y="456"/>
+      <point x="332" y="456" type="curve" smooth="yes" name="hr03"/>
+      <point x="254" y="456"/>
+      <point x="175" y="456"/>
+      <point x="97" y="456" type="curve" smooth="yes"/>
+      <point x="66" y="456"/>
+      <point x="55" y="437"/>
+      <point x="55" y="418" type="curve" smooth="yes"/>
+      <point x="55" y="397"/>
+      <point x="103" y="291"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjM3OCIgd2lkdGg9Ijc4IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2MDkiIHdpZHRoPSI3OCIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iNTUiIHdpZHRoPSIx
+MjMiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjY5MSIg
+d2lkdGg9IjYwIiAvPgogICAgPC9oaW50c2V0Pgog
+ICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDIiPgog
+ICAgICA8aHN0ZW0gcG9zPSI0MTIiIHdpZHRoPSI3
+OCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjA5IiB3
+aWR0aD0iNzgiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+IjU1IiB3aWR0aD0iMTIzIiAvPgogICAgICA8dnN0
+ZW0gcG9zPSI2OTEiIHdpZHRoPSI2MCIgLz4KICAg
+IDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50
+VGFnPSJocjAzIj4KICAgICAgPGhzdGVtIHBvcz0i
+Mzc4IiB3aWR0aD0iNzgiIC8+CiAgICAgIDxoc3Rl
+bSBwb3M9IjYwOSIgd2lkdGg9Ijc4IiAvPgogICAg
+ICA8dnN0ZW0gcG9zPSI1NSIgd2lkdGg9IjEyMyIg
+Lz4KICAgICAgPHZzdGVtIHBvcz0iNjkxIiB3aWR0
+aD0iNjAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9o
+aW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

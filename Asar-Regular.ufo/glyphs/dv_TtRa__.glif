@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_TtRa" format="1">
+  <advance width="631"/>
+  <outline>
+    <component base="dv_Tta"/>
+    <component base="dv_Rakar" xOffset="210" yOffset="-29"/>
+  </outline>
+</glyph>

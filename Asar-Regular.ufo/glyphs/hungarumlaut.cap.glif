@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.cap" format="1">
+  <advance width="463"/>
+  <outline>
+    <contour>
+      <point x="317" y="712" type="curve" smooth="yes" name="hr00"/>
+      <point x="327" y="712"/>
+      <point x="438" y="799"/>
+      <point x="464" y="857" type="curve"/>
+      <point x="464" y="860" type="line" smooth="yes"/>
+      <point x="464" y="873"/>
+      <point x="427" y="921"/>
+      <point x="406" y="921" type="curve" smooth="yes"/>
+      <point x="402" y="921"/>
+      <point x="399" y="919"/>
+      <point x="397" y="915" type="curve" smooth="yes"/>
+      <point x="281" y="734" type="line"/>
+      <point x="281" y="728"/>
+      <point x="301" y="712"/>
+    </contour>
+    <contour>
+      <point x="94" y="712" type="curve" smooth="yes"/>
+      <point x="104" y="712"/>
+      <point x="215" y="799"/>
+      <point x="241" y="857" type="curve"/>
+      <point x="241" y="860" type="line" smooth="yes"/>
+      <point x="241" y="873"/>
+      <point x="204" y="921"/>
+      <point x="180" y="921" type="curve" smooth="yes"/>
+      <point x="176" y="921"/>
+      <point x="173" y="919"/>
+      <point x="171" y="915" type="curve" smooth="yes"/>
+      <point x="58" y="734" type="line"/>
+      <point x="58" y="728"/>
+      <point x="75" y="712"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjcxMiIgd2lkdGg9IjIwOSIgLz4KICAgICAg
+PHZzdGVtIHBvcz0iNTgiIHdpZHRoPSI0MDYiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
+dD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_B.half" format="1">
+  <advance width="498"/>
+  <outline>
+    <contour>
+      <point x="144" y="360" type="curve" name="hr00"/>
+      <point x="240" y="300"/>
+      <point x="332" y="232"/>
+      <point x="429" y="172" type="curve"/>
+      <point x="434" y="170"/>
+      <point x="438" y="169"/>
+      <point x="441" y="169" type="curve" smooth="yes"/>
+      <point x="445" y="169"/>
+      <point x="447" y="171"/>
+      <point x="447" y="175" type="curve" smooth="yes"/>
+      <point x="447" y="192"/>
+      <point x="414" y="235"/>
+      <point x="408" y="241" type="curve"/>
+      <point x="311" y="301"/>
+      <point x="219" y="368"/>
+      <point x="123" y="429" type="curve" smooth="yes"/>
+      <point x="118" y="432"/>
+      <point x="113" y="434"/>
+      <point x="109" y="434" type="curve" smooth="yes"/>
+      <point x="104" y="434"/>
+      <point x="101" y="431"/>
+      <point x="101" y="424" type="curve" smooth="yes"/>
+      <point x="101" y="401"/>
+      <point x="125" y="374"/>
+    </contour>
+    <component base="dv_V.half"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjE2OSIgd2lkdGg9IjI2NSIgLz4KICAgICAg
+PHZzdGVtIHBvcz0iMTAxIiB3aWR0aD0iMzQ2IiAv
+PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
+c3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

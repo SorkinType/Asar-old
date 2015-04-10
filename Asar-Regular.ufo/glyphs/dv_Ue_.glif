@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ue" format="1">
+  <advance width="889"/>
+  <unicode hex="0976"/>
+  <outline>
+    <component base="dv_A"/>
+    <component base="dv_MatraUe" xOffset="287" yOffset="-20"/>
+  </outline>
+</glyph>

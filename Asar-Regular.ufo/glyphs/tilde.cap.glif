@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.cap" format="1">
+  <advance width="472"/>
+  <outline>
+    <contour>
+      <point x="67" y="779" type="curve" smooth="yes" name="hr01"/>
+      <point x="71" y="779"/>
+      <point x="73" y="780"/>
+      <point x="74" y="781" type="curve" smooth="yes"/>
+      <point x="95" y="802"/>
+      <point x="106" y="837"/>
+      <point x="140" y="837" type="curve" smooth="yes"/>
+      <point x="202" y="837"/>
+      <point x="220" y="759"/>
+      <point x="302" y="759" type="curve" smooth="yes"/>
+      <point x="380" y="759"/>
+      <point x="417" y="829"/>
+      <point x="439" y="868" type="curve" smooth="yes" name="hr02"/>
+      <point x="440" y="870"/>
+      <point x="441" y="872"/>
+      <point x="441" y="874" type="curve" smooth="yes"/>
+      <point x="441" y="887"/>
+      <point x="415" y="893"/>
+      <point x="403" y="893" type="curve" smooth="yes"/>
+      <point x="400" y="893"/>
+      <point x="398" y="893"/>
+      <point x="398" y="892" type="curve" smooth="yes"/>
+      <point x="377" y="871"/>
+      <point x="353" y="825"/>
+      <point x="319" y="825" type="curve" smooth="yes"/>
+      <point x="257" y="825"/>
+      <point x="219" y="904"/>
+      <point x="158" y="904" type="curve" smooth="yes" name="hr03"/>
+      <point x="82" y="904"/>
+      <point x="52" y="843"/>
+      <point x="30" y="805" type="curve"/>
+      <point x="28" y="803"/>
+      <point x="28" y="801"/>
+      <point x="28" y="799" type="curve" smooth="yes"/>
+      <point x="28" y="786"/>
+      <point x="55" y="779"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ijc1OSIgd2lkdGg9IjY2IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI4MzciIHdpZHRoPSI2NyIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMjgiIHdpZHRoPSI0
+MTMiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGlu
+dHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAgIDxo
+c3RlbSBwb3M9Ijc1OSIgd2lkdGg9IjY2IiAvPgog
+ICAgICA8dnN0ZW0gcG9zPSIyOCIgd2lkdGg9IjQx
+MyIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50
+c2V0IHBvaW50VGFnPSJocjAzIj4KICAgICAgPGhz
+dGVtIHBvcz0iNzU5IiB3aWR0aD0iNjYiIC8+CiAg
+ICAgIDxoc3RlbSBwb3M9IjgzNyIgd2lkdGg9IjY3
+IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyOCIgd2lk
+dGg9IjQxMyIgLz4KICAgIDwvaGludHNldD4KICA8
+L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

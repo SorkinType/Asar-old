@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_CandraA" format="1">
+  <advance width="889"/>
+  <unicode hex="0972"/>
+  <outline>
+    <component base="dv_A"/>
+    <component base="dv_MatraCandraE" xOffset="443"/>
+  </outline>
+</glyph>

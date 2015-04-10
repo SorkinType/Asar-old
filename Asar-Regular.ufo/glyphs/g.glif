@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g" format="1">
+  <advance width="484"/>
+  <unicode hex="0067"/>
+  <outline>
+    <contour>
+      <point x="76" y="68" type="curve" name="hr01"/>
+      <point x="77" y="38"/>
+      <point x="88" y="10"/>
+      <point x="118" y="2" type="curve"/>
+      <point x="71" y="-21"/>
+      <point x="18" y="-64"/>
+      <point x="18" y="-134" type="curve" smooth="yes" name="hr02"/>
+      <point x="18" y="-219"/>
+      <point x="71" y="-277"/>
+      <point x="177" y="-277" type="curve" smooth="yes"/>
+      <point x="282" y="-277"/>
+      <point x="439" y="-215"/>
+      <point x="439" y="-62" type="curve" smooth="yes"/>
+      <point x="439" y="5"/>
+      <point x="377" y="53"/>
+      <point x="221" y="58" type="curve"/>
+      <point x="185" y="58"/>
+      <point x="164" y="64"/>
+      <point x="164" y="89" type="curve" smooth="yes" name="hr03"/>
+      <point x="164" y="118"/>
+      <point x="176" y="142"/>
+      <point x="189" y="160" type="curve"/>
+      <point x="213" y="160" type="line" smooth="yes"/>
+      <point x="318" y="160"/>
+      <point x="409" y="215"/>
+      <point x="409" y="345" type="curve" smooth="yes"/>
+      <point x="409" y="388"/>
+      <point x="387" y="423"/>
+      <point x="354" y="446" type="curve"/>
+      <point x="385" y="456"/>
+      <point x="468" y="471"/>
+      <point x="468" y="523" type="curve" smooth="yes"/>
+      <point x="468" y="542"/>
+      <point x="448" y="555"/>
+      <point x="432" y="555" type="curve" smooth="yes"/>
+      <point x="419" y="555"/>
+      <point x="366" y="498"/>
+      <point x="323" y="463" type="curve"/>
+      <point x="300" y="472"/>
+      <point x="274" y="477"/>
+      <point x="247" y="477" type="curve" smooth="yes"/>
+      <point x="117" y="477"/>
+      <point x="29" y="413"/>
+      <point x="29" y="299" type="curve" smooth="yes" name="hr04"/>
+      <point x="29" y="224"/>
+      <point x="72" y="181"/>
+      <point x="144" y="166" type="curve"/>
+      <point x="109" y="139"/>
+      <point x="76" y="105"/>
+    </contour>
+    <contour>
+      <point x="226" y="210" type="curve" smooth="yes" name="hr06"/>
+      <point x="143" y="210"/>
+      <point x="110" y="256"/>
+      <point x="110" y="339" type="curve" smooth="yes"/>
+      <point x="110" y="407"/>
+      <point x="137" y="428"/>
+      <point x="211" y="428" type="curve" smooth="yes"/>
+      <point x="277" y="428"/>
+      <point x="331" y="386"/>
+      <point x="331" y="306" type="curve" smooth="yes"/>
+      <point x="331" y="234"/>
+      <point x="290" y="210"/>
+    </contour>
+    <contour>
+      <point x="101" y="-107" type="curve" smooth="yes" name="hr07"/>
+      <point x="101" y="-63"/>
+      <point x="122" y="-26"/>
+      <point x="163" y="0" type="curve"/>
+      <point x="293" y="-4"/>
+      <point x="359" y="-40"/>
+      <point x="359" y="-89" type="curve" smooth="yes"/>
+      <point x="359" y="-177"/>
+      <point x="345" y="-218"/>
+      <point x="238" y="-218" type="curve" smooth="yes"/>
+      <point x="138" y="-218"/>
+      <point x="101" y="-173"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0yNzciIHdpZHRoPSI1OSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMCIgd2lkdGg9IjU4IiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSIxNjAiIHdpZHRoPSI1
+MCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDI4IiB3
+aWR0aD0iNDkiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+Ijc2IiB3aWR0aD0iODgiIC8+CiAgICAgIDx2c3Rl
+bSBwb3M9IjM1OSIgd2lkdGg9IjgwIiAvPgogICAg
+PC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRU
+YWc9ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSIt
+Mjc3IiB3aWR0aD0iNTkiIC8+CiAgICAgIDxoc3Rl
+bSBwb3M9IjAiIHdpZHRoPSI1OCIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMTYwIiB3aWR0aD0iNTAiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9IjQyOCIgd2lkdGg9
+IjQ5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxOCIg
+d2lkdGg9IjgzIiAvPgogICAgICA8dnN0ZW0gcG9z
+PSIzNTkiIHdpZHRoPSI4MCIgLz4KICAgIDwvaGlu
+dHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJo
+cjAzIj4KICAgICAgPGhzdGVtIHBvcz0iLTI3NyIg
+d2lkdGg9IjU5IiAvPgogICAgICA8aHN0ZW0gcG9z
+PSIwIiB3aWR0aD0iNTgiIC8+CiAgICAgIDxoc3Rl
+bSBwb3M9IjE2MCIgd2lkdGg9IjUwIiAvPgogICAg
+ICA8aHN0ZW0gcG9zPSI0MjgiIHdpZHRoPSI0OSIg
+Lz4KICAgICAgPHZzdGVtIHBvcz0iNzYiIHdpZHRo
+PSI4OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzMx
+IiB3aWR0aD0iNzgiIC8+CiAgICA8L2hpbnRzZXQ+
+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwNCI+
+CiAgICAgIDxoc3RlbSBwb3M9Ii0yNzciIHdpZHRo
+PSI1OSIgLz4KICAgICAgPGhzdGVtIHBvcz0iMCIg
+d2lkdGg9IjU4IiAvPgogICAgICA8aHN0ZW0gcG9z
+PSIxNjAiIHdpZHRoPSI1MCIgLz4KICAgICAgPGhz
+dGVtIHBvcz0iNDI4IiB3aWR0aD0iNDkiIC8+CiAg
+ICAgIDx2c3RlbSBwb3M9IjI5IiB3aWR0aD0iODEi
+IC8+CiAgICAgIDx2c3RlbSBwb3M9IjM1OSIgd2lk
+dGg9IjgwIiAvPgogICAgPC9oaW50c2V0PgogICAg
+PGhpbnRzZXQgcG9pbnRUYWc9ImhyMDUiPgogICAg
+ICA8aHN0ZW0gcG9zPSItMjc3IiB3aWR0aD0iNTki
+IC8+CiAgICAgIDxoc3RlbSBwb3M9IjAiIHdpZHRo
+PSI1OCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMTYw
+IiB3aWR0aD0iNTAiIC8+CiAgICAgIDxoc3RlbSBw
+b3M9IjQyOCIgd2lkdGg9IjQ5IiAvPgogICAgICA8
+dnN0ZW0gcG9zPSI3NiIgd2lkdGg9Ijg4IiAvPgog
+ICAgICA8dnN0ZW0gcG9zPSIzNTkiIHdpZHRoPSI4
+MCIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50
+c2V0IHBvaW50VGFnPSJocjA2Ij4KICAgICAgPGhz
+dGVtIHBvcz0iLTI3NyIgd2lkdGg9IjU5IiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSIwIiB3aWR0aD0iNTgi
+IC8+CiAgICAgIDxoc3RlbSBwb3M9IjE2MCIgd2lk
+dGg9IjUwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI0
+MjgiIHdpZHRoPSI0OSIgLz4KICAgICAgPHZzdGVt
+IHBvcz0iMjkiIHdpZHRoPSI4MSIgLz4KICAgICAg
+PHZzdGVtIHBvcz0iMzMxIiB3aWR0aD0iNzgiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwNyI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0yNzciIHdpZHRoPSI1OSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMCIgd2lkdGg9IjU4IiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSIxNjAiIHdpZHRoPSI1
+MCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDI4IiB3
+aWR0aD0iNDkiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+IjE4IiB3aWR0aD0iODMiIC8+CiAgICAgIDx2c3Rl
+bSBwb3M9IjM1OSIgd2lkdGg9IjgwIiAvPgogICAg
+PC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

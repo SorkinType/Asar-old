@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Tth.half" format="1">
+  <advance width="716"/>
+  <outline>
+    <component base="dv_Ttha"/>
+    <component base="dv_MatraE" xOffset="731" yOffset="-997"/>
+  </outline>
+</glyph>

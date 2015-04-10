@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraICandraBindu.1" format="1">
+  <advance width="320"/>
+  <outline>
+    <contour>
+      <point x="858" y="951" type="curve" name="hr01"/>
+      <point x="860" y="951" type="line" smooth="yes"/>
+      <point x="887" y="951"/>
+      <point x="922" y="977"/>
+      <point x="922" y="1007" type="curve" smooth="yes"/>
+      <point x="922" y="1030"/>
+      <point x="897" y="1074"/>
+      <point x="868" y="1079" type="curve"/>
+      <point x="837" y="1079"/>
+      <point x="808" y="1051"/>
+      <point x="808" y="1020" type="curve" smooth="yes"/>
+      <point x="808" y="1017" type="line" smooth="yes"/>
+      <point x="808" y="997"/>
+      <point x="844" y="951"/>
+    </contour>
+    <contour>
+      <point x="798" y="858" type="curve" smooth="yes"/>
+      <point x="823" y="841"/>
+      <point x="855" y="833"/>
+      <point x="887" y="833" type="curve" smooth="yes"/>
+      <point x="933" y="833"/>
+      <point x="979" y="850"/>
+      <point x="1006" y="887" type="curve" smooth="yes"/>
+      <point x="1007" y="889"/>
+      <point x="1008" y="892"/>
+      <point x="1008" y="896" type="curve" smooth="yes"/>
+      <point x="1008" y="920"/>
+      <point x="977" y="963"/>
+      <point x="957" y="963" type="curve" smooth="yes"/>
+      <point x="954" y="963"/>
+      <point x="952" y="962"/>
+      <point x="950" y="961" type="curve"/>
+      <point x="925" y="925"/>
+      <point x="887" y="912"/>
+      <point x="844" y="912" type="curve" smooth="yes"/>
+      <point x="820" y="912"/>
+      <point x="791" y="913"/>
+      <point x="773" y="931" type="curve"/>
+      <point x="759" y="950"/>
+      <point x="738" y="967"/>
+      <point x="729" y="967" type="curve" smooth="yes"/>
+      <point x="726" y="967"/>
+      <point x="724" y="965"/>
+      <point x="724" y="961" type="curve" smooth="yes"/>
+      <point x="724" y="946"/>
+      <point x="757" y="885"/>
+    </contour>
+    <component base="dv_MatraI.1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjgzMyIgd2lkdGg9Ijc5IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI5NTEiIHdpZHRoPSIxMjgiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjgwOCIgd2lkdGg9
+IjExNCIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+bnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Jj.half" format="1">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="45" y="-96" type="line" name="hr00"/>
+      <point x="40" y="-99"/>
+      <point x="39" y="-103"/>
+      <point x="39" y="-108" type="curve" smooth="yes"/>
+      <point x="39" y="-131"/>
+      <point x="75" y="-168"/>
+      <point x="90" y="-174" type="curve"/>
+      <point x="403" y="-174" type="line"/>
+      <point x="409" y="-173"/>
+      <point x="412" y="-169"/>
+      <point x="412" y="-163" type="curve" smooth="yes"/>
+      <point x="412" y="-142"/>
+      <point x="377" y="-99"/>
+      <point x="358" y="-96" type="curve"/>
+    </contour>
+    <component base="dv_J.half"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xNzQiIHdpZHRoPSI3OCIgLz4KICAgICAg
+PHZzdGVtIHBvcz0iMzkiIHdpZHRoPSIzNzMiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
+dD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

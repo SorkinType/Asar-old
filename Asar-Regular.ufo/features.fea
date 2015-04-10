@@ -1,0 +1,8 @@
+feature locl { # Localized Forms
+ # DEFAULT
+ language MOL  exclude_dflt; # Moldavian
+    sub [uni015E uni015F] by [uni0218 uni0219];
+ language ROM  exclude_dflt; # Romanian
+    sub [uni015E uni015F uni0162 uni0163] by [uni0218 uni0219 uni021A uni021B];
+} locl;
+

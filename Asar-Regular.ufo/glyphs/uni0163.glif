@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0163" format="1">
+  <advance width="321"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="82" y="57" type="line" smooth="yes" name="hr01"/>
+      <point x="82" y="13"/>
+      <point x="111" y="-12"/>
+      <point x="144" y="-13" type="curve"/>
+      <point x="130" y="-100" type="line"/>
+      <point x="136" y="-99"/>
+      <point x="143" y="-99"/>
+      <point x="149" y="-99" type="curve" smooth="yes"/>
+      <point x="190" y="-99"/>
+      <point x="228" y="-110"/>
+      <point x="228" y="-146" type="curve" smooth="yes"/>
+      <point x="228" y="-201"/>
+      <point x="183" y="-211"/>
+      <point x="140" y="-211" type="curve" smooth="yes"/>
+      <point x="129" y="-211"/>
+      <point x="112" y="-205"/>
+      <point x="101" y="-205" type="curve" smooth="yes"/>
+      <point x="96" y="-205"/>
+      <point x="86" y="-223"/>
+      <point x="86" y="-236" type="curve" smooth="yes"/>
+      <point x="86" y="-257"/>
+      <point x="152" y="-264"/>
+      <point x="171" y="-264" type="curve" smooth="yes"/>
+      <point x="251" y="-264"/>
+      <point x="323" y="-221"/>
+      <point x="323" y="-141" type="curve" smooth="yes"/>
+      <point x="323" y="-84"/>
+      <point x="261" y="-64"/>
+      <point x="215" y="-64" type="curve"/>
+      <point x="215" y="-7" type="line" name="hr02"/>
+      <point x="244" y="0"/>
+      <point x="298" y="17"/>
+      <point x="298" y="40" type="curve" smooth="yes" name="hr03"/>
+      <point x="298" y="42"/>
+      <point x="299" y="57"/>
+      <point x="279" y="57" type="curve" smooth="yes"/>
+      <point x="256" y="57"/>
+      <point x="235" y="46"/>
+      <point x="217" y="46" type="curve" smooth="yes"/>
+      <point x="170" y="46"/>
+      <point x="169" y="52"/>
+      <point x="169" y="147" type="curve" smooth="yes"/>
+      <point x="169" y="402" type="line"/>
+      <point x="253" y="402" type="line"/>
+      <point x="272" y="403"/>
+      <point x="284" y="424"/>
+      <point x="284" y="440" type="curve" smooth="yes"/>
+      <point x="284" y="450"/>
+      <point x="281" y="458"/>
+      <point x="264" y="458" type="curve" smooth="yes"/>
+      <point x="169" y="458" type="line"/>
+      <point x="169" y="582" type="line"/>
+      <point x="164" y="585"/>
+      <point x="148" y="586"/>
+      <point x="138" y="586" type="curve" smooth="yes"/>
+      <point x="109" y="586"/>
+      <point x="108" y="512"/>
+      <point x="90" y="478" type="curve"/>
+      <point x="60" y="430"/>
+      <point x="32" y="444"/>
+      <point x="32" y="418" type="curve" smooth="yes"/>
+      <point x="32" y="413"/>
+      <point x="34" y="404"/>
+      <point x="40" y="402" type="curve"/>
+      <point x="82" y="402" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0yNjQiIHdpZHRoPSI1MyIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iLTk5IiB3aWR0aD0iMzUiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9IjgiIHdpZHRoPSIt
+MjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjQwMiIg
+d2lkdGg9IjU2IiAvPgogICAgICA8dnN0ZW0gcG9z
+PSI4MiIgd2lkdGg9Ijg3IiAvPgogICAgICA8dnN0
+ZW0gcG9zPSIyMjgiIHdpZHRoPSI5NSIgLz4KICAg
+IDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50
+VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0i
+LTI2NCIgd2lkdGg9IjUzIiAvPgogICAgICA8aHN0
+ZW0gcG9zPSItOTkiIHdpZHRoPSIzNSIgLz4KICAg
+ICAgPGhzdGVtIHBvcz0iMTQiIHdpZHRoPSItMjEi
+IC8+CiAgICAgIDxoc3RlbSBwb3M9IjQwMiIgd2lk
+dGg9IjU2IiAvPgogICAgICA8dnN0ZW0gcG9zPSI4
+MiIgd2lkdGg9Ijg3IiAvPgogICAgICA8dnN0ZW0g
+cG9zPSIyMjgiIHdpZHRoPSI5NSIgLz4KICAgIDwv
+aGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFn
+PSJocjAzIj4KICAgICAgPGhzdGVtIHBvcz0iLTI2
+NCIgd2lkdGg9IjUzIiAvPgogICAgICA8aHN0ZW0g
+cG9zPSItOTkiIHdpZHRoPSIzNSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iLTciIHdpZHRoPSI1MyIgLz4K
+ICAgICAgPGhzdGVtIHBvcz0iNDAyIiB3aWR0aD0i
+NTYiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjgyIiB3
+aWR0aD0iODciIC8+CiAgICAgIDx2c3RlbSBwb3M9
+IjIyOCIgd2lkdGg9Ijk1IiAvPgogICAgPC9oaW50
+c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

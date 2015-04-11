@@ -24,7 +24,7 @@
       <point x="324" y="184"/>
       <point x="322" y="183" type="curve" smooth="yes"/>
     </contour>
-    <component base="dv_Ka"/>
+    <component base="dv_Ka" xOffset="-15"/>
     <component base="dv_Nukta" xOffset="272" yOffset="52"/>
   </outline>
   <lib>

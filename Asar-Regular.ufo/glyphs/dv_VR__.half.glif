@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dv_VR.half" format="1">
-  <advance width="498"/>
+  <advance width="377"/>
   <outline>
     <contour>
       <point x="19" y="609" type="curve" name="hr00"/>

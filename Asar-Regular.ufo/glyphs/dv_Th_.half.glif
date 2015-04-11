@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dv_Th.half" format="1">
-  <advance width="356"/>
+  <advance width="372"/>
   <outline>
     <contour>
       <point x="232" y="181" type="curve" smooth="yes" name="hr01"/>

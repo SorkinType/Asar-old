@@ -28,7 +28,7 @@
       <point x="97" y="15"/>
       <point x="97" y="13"/>
     </contour>
-    <component base="dv_Ka"/>
+    <component base="dv_Ka" xOffset="-15"/>
   </outline>
   <lib>
   <dict>

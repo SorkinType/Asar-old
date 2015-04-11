@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>1149</integer>
+  <integer>1196</integer>
   <key>capHeight</key>
   <integer>680</integer>
   <key>copyright</key>
@@ -20,9 +20,9 @@
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>940</integer>
+  <integer>1196</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-500</integer>
+  <integer>-557</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDesigner</key>
@@ -98,7 +98,7 @@
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>1149</integer>
+  <integer>1196</integer>
   <key>openTypeOS2TypoDescender</key>
   <integer>-557</integer>
   <key>openTypeOS2TypoLineGap</key>
@@ -133,9 +133,9 @@
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>940</integer>
+  <integer>1196</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>500</integer>
+  <integer>557</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>

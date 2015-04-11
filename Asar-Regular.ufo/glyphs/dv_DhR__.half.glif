@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dv_DhR.half" format="1">
-  <advance width="435"/>
+  <advance width="464"/>
   <outline>
     <contour>
-      <point x="193" y="10" type="curve" smooth="yes" name="hr01"/>
+      <point x="193" y="10" type="curve" smooth="yes"/>
       <point x="193" y="-14"/>
       <point x="221" y="-60"/>
       <point x="245" y="-60" type="curve" smooth="yes"/>
@@ -58,10 +58,10 @@
       <point x="257" y="444" type="curve" smooth="yes"/>
       <point x="251" y="444"/>
       <point x="245" y="444"/>
-      <point x="240" y="444" type="curve" smooth="yes" name="hr02"/>
+      <point x="240" y="444" type="curve" smooth="yes"/>
       <point x="203" y="447"/>
       <point x="156" y="451"/>
-      <point x="156" y="504" type="curve" smooth="yes"/>
+      <point x="156" y="504" type="curve" smooth="yes" name="hr01"/>
       <point x="156" y="582"/>
       <point x="224" y="617"/>
       <point x="283" y="617" type="curve" smooth="yes"/>
@@ -85,7 +85,7 @@
       <point x="158" y="422" type="curve"/>
       <point x="107" y="393"/>
       <point x="85" y="344"/>
-      <point x="85" y="292" type="curve" smooth="yes" name="hr03"/>
+      <point x="85" y="292" type="curve" smooth="yes" name="hr02"/>
       <point x="85" y="191"/>
       <point x="167" y="98"/>
       <point x="271" y="83" type="curve"/>
@@ -102,19 +102,14 @@ ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
 b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
 b3M9IjM2NSIgd2lkdGg9Ijc5IiAvPgogICAgICA8
 aHN0ZW0gcG9zPSI2MTciIHdpZHRoPSI3OCIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iODUiIHdpZHRoPSI1
-OCIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50
+ICAgICAgPHZzdGVtIHBvcz0iOTYiIHdpZHRoPSI2
+MCIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50
 c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAgPGhz
 dGVtIHBvcz0iMzY1IiB3aWR0aD0iNzkiIC8+CiAg
 ICAgIDxoc3RlbSBwb3M9IjYxNyIgd2lkdGg9Ijc4
-IiAvPgogICAgICA8dnN0ZW0gcG9zPSI5NiIgd2lk
-dGg9IjYwIiAvPgogICAgPC9oaW50c2V0PgogICAg
-PGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgogICAg
-ICA8aHN0ZW0gcG9zPSIzNjUiIHdpZHRoPSI3OSIg
-Lz4KICAgICAgPGhzdGVtIHBvcz0iNjE3IiB3aWR0
-aD0iNzgiIC8+CiAgICAgIDx2c3RlbSBwb3M9Ijg1
-IiB3aWR0aD0iNTgiIC8+CiAgICA8L2hpbnRzZXQ+
-CiAgPC9oaW50U2V0TGlzdD4K
+IiAvPgogICAgICA8dnN0ZW0gcG9zPSI4NSIgd2lk
+dGg9IjU4IiAvPgogICAgPC9oaW50c2V0PgogIDwv
+aGludFNldExpc3Q+Cg==
   </data>
   </dict>
   </lib>

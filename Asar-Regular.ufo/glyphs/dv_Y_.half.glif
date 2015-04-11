@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dv_Y.half" format="1">
-  <advance width="307"/>
+  <advance width="337"/>
   <outline>
     <contour>
       <point x="146" y="291" type="curve" smooth="yes" name="hr01"/>
@@ -16,13 +16,13 @@
       <point x="226" y="512"/>
       <point x="205" y="566"/>
       <point x="173" y="609" type="curve"/>
-      <point x="328" y="609" type="line"/>
-      <point x="334" y="610"/>
-      <point x="337" y="614"/>
-      <point x="337" y="620" type="curve" smooth="yes"/>
-      <point x="337" y="641"/>
-      <point x="302" y="684"/>
-      <point x="283" y="687" type="curve"/>
+      <point x="348" y="609" type="line"/>
+      <point x="354" y="610"/>
+      <point x="357" y="614"/>
+      <point x="357" y="620" type="curve" smooth="yes"/>
+      <point x="357" y="641"/>
+      <point x="322" y="684"/>
+      <point x="303" y="687" type="curve"/>
       <point x="-26" y="687" type="line"/>
       <point x="-31" y="684"/>
       <point x="-32" y="680"/>

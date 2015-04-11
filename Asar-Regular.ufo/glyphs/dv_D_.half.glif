@@ -2,7 +2,7 @@
 <glyph name="dv_D.half" format="1">
   <advance width="602"/>
   <outline>
-    <component base="dv_MatraE" xOffset="711" yOffset="-997"/>
     <component base="dv_Da"/>
+    <component base="dv_Halant" xOffset="598"/>
   </outline>
 </glyph>

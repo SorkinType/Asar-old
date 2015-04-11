@@ -3,6 +3,6 @@
   <advance width="631"/>
   <outline>
     <component base="dv_Tta"/>
-    <component base="dv_MatraE" xOffset="740" yOffset="-997"/>
+    <component base="dv_Halant" xOffset="628"/>
   </outline>
 </glyph>

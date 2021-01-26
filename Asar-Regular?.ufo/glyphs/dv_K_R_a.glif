@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_KRa" format="1">
+  <advance width="908"/>
+  <outline>
+    <contour>
+      <point x="97" y="12" type="curve" name="hr00" smooth="yes"/>
+      <point x="97" y="-12"/>
+      <point x="125" y="-58"/>
+      <point x="149" y="-58" type="curve" smooth="yes"/>
+      <point x="151" y="-58"/>
+      <point x="152" y="-58"/>
+      <point x="153" y="-58" type="curve" smooth="yes"/>
+      <point x="224" y="-6"/>
+      <point x="295" y="47"/>
+      <point x="364" y="102" type="curve"/>
+      <point x="365" y="104"/>
+      <point x="366" y="107"/>
+      <point x="366" y="111" type="curve" smooth="yes"/>
+      <point x="366" y="135"/>
+      <point x="335" y="178"/>
+      <point x="315" y="178" type="curve" smooth="yes"/>
+      <point x="312" y="178"/>
+      <point x="310" y="177"/>
+      <point x="308" y="176" type="curve" smooth="yes"/>
+      <point x="239" y="121"/>
+      <point x="169" y="68"/>
+      <point x="97" y="16" type="curve"/>
+      <point x="97" y="15"/>
+      <point x="97" y="13"/>
+    </contour>
+    <component base="dv_Ka" xOffset="-15"/>
+  </outline>
+</glyph>

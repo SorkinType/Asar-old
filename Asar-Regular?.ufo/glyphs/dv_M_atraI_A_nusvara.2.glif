@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraIAnusvara.2" format="1">
+  <advance width="320"/>
+  <outline>
+    <component base="dv_MatraI.2"/>
+    <component base="dv_Nukta" xOffset="1016" yOffset="981"/>
+  </outline>
+</glyph>

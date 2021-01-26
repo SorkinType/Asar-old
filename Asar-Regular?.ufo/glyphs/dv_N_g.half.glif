@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ng.half" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="dv_Nukta" xOffset="477" yOffset="486"/>
+    <component base="dv_Halant" xOffset="528"/>
+    <component base="dv_Nga"/>
+  </outline>
+</glyph>

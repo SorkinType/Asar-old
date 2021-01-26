@@ -34,7 +34,7 @@
       <point x="55" y="332" type="curve" smooth="yes"/>
       <point x="55" y="180"/>
       <point x="295" y="207"/>
-      <point x="295" y="94" type="curve" smooth="yes" name="hr03"/>
+      <point x="295" y="94" type="curve" name="hr03" smooth="yes"/>
       <point x="295" y="56"/>
       <point x="259" y="33"/>
       <point x="224" y="33" type="curve" smooth="yes"/>
@@ -47,33 +47,17 @@
       <point x="43" y="150"/>
       <point x="51" y="79"/>
     </contour>
+    <contour>
+      <point x="205" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="205" y="484" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0xNiIgd2lkdGg9IjQ5IiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI0MjIiIHdpZHRoPSI1NSIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iNTUiIHdpZHRoPSI3
-NSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjk1IiB3
-aWR0aD0iODEiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
-ICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAg
-ICAgIDxoc3RlbSBwb3M9Ii0xNiIgd2lkdGg9IjQ5
-IiAvPgogICAgICA8aHN0ZW0gcG9zPSI0MjIiIHdp
-ZHRoPSI1NSIgLz4KICAgICAgPHZzdGVtIHBvcz0i
-NTUiIHdpZHRoPSI3NSIgLz4KICAgICAgPHZzdGVt
-IHBvcz0iMjk1IiB3aWR0aD0iNTQiIC8+CiAgICA8
-L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRh
-Zz0iaHIwMyI+CiAgICAgIDxoc3RlbSBwb3M9Ii0x
-NiIgd2lkdGg9IjQ5IiAvPgogICAgICA8aHN0ZW0g
-cG9zPSI0MjIiIHdpZHRoPSI1NSIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iNTUiIHdpZHRoPSI3NSIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iMjk1IiB3aWR0aD0i
-ODEiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50
-U2V0TGlzdD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:20:05 +0000</string>
+    </dict>
   </lib>
 </glyph>

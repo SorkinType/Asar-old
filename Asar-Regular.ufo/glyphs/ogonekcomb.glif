@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="1">
+  <advance width="274"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <component base="ogonek"/>
+    <contour>
+      <point x="244" y="10" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:25:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

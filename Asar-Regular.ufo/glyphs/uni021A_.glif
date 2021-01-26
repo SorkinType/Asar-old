@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021A" format="1">
-  <advance width="213"/>
+  <advance width="621"/>
   <unicode hex="021A"/>
   <outline>
-    <component base="T" xOffset="-42"/>
-    <component base="commaaccent" xOffset="177"/>
+    <component base="T"/>
+    <component base="commaaccent" xOffset="213"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:26:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

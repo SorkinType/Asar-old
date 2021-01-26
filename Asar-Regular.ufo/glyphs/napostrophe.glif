@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="1">
-  <advance width="582"/>
+  <advance width="554"/>
   <unicode hex="0149"/>
   <outline>
-    <component base="n" xOffset="28"/>
-    <component base="commaaccent" xOffset="-48" yOffset="836"/>
+    <component base="n"/>
+    <component base="commaaccent" xOffset="179"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:26:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

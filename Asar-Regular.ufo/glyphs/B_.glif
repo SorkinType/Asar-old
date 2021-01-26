@@ -4,7 +4,7 @@
   <unicode hex="0042"/>
   <outline>
     <contour>
-      <point x="48" y="24" type="curve" smooth="yes" name="hr01"/>
+      <point x="48" y="24" type="curve" name="hr01" smooth="yes"/>
       <point x="48" y="16"/>
       <point x="51" y="0"/>
       <point x="67" y="0" type="curve" smooth="yes"/>
@@ -18,7 +18,7 @@
       <point x="398" y="355" type="curve"/>
       <point x="472" y="384"/>
       <point x="518" y="447"/>
-      <point x="518" y="502" type="curve" smooth="yes" name="hr02"/>
+      <point x="518" y="502" type="curve" name="hr02" smooth="yes"/>
       <point x="518" y="635"/>
       <point x="406" y="665"/>
       <point x="310" y="665" type="curve" smooth="yes"/>
@@ -44,7 +44,7 @@
       <point x="252" y="612" type="curve" smooth="yes"/>
       <point x="391" y="612"/>
       <point x="428" y="581"/>
-      <point x="428" y="486" type="curve" smooth="yes" name="hr04"/>
+      <point x="428" y="486" type="curve" name="hr04" smooth="yes"/>
       <point x="428" y="424"/>
       <point x="377" y="366"/>
       <point x="256" y="366" type="curve" smooth="yes"/>
@@ -70,52 +70,17 @@
       <point x="269" y="53"/>
       <point x="231" y="54"/>
     </contour>
+    <contour>
+      <point x="304" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="304" y="680" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjAiIHdpZHRoPSI1MyIgLz4KICAgICAgPGhz
-dGVtIHBvcz0iMzE5IiB3aWR0aD0iNDciIC8+CiAg
-ICAgIDxoc3RlbSBwb3M9IjYxMiIgd2lkdGg9IjQ2
-IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxMTIiIHdp
-ZHRoPSI4OCIgLz4KICAgICAgPHZzdGVtIHBvcz0i
-NDczIiB3aWR0aD0iOTUiIC8+CiAgICA8L2hpbnRz
-ZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIw
-MiI+CiAgICAgIDxoc3RlbSBwb3M9IjAiIHdpZHRo
-PSI1MyIgLz4KICAgICAgPGhzdGVtIHBvcz0iMzE5
-IiB3aWR0aD0iNDciIC8+CiAgICAgIDxoc3RlbSBw
-b3M9IjYxMiIgd2lkdGg9IjQ2IiAvPgogICAgICA8
-dnN0ZW0gcG9zPSIxMTIiIHdpZHRoPSI4OCIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iNDI4IiB3aWR0aD0i
-OTAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGlu
-dHNldCBwb2ludFRhZz0iaHIwMyI+CiAgICAgIDxo
-c3RlbSBwb3M9IjAiIHdpZHRoPSI1MyIgLz4KICAg
-ICAgPGhzdGVtIHBvcz0iMzE5IiB3aWR0aD0iNDci
-IC8+CiAgICAgIDxoc3RlbSBwb3M9IjYxMiIgd2lk
-dGg9IjQ2IiAvPgogICAgICA8dnN0ZW0gcG9zPSIx
-MTIiIHdpZHRoPSI4OCIgLz4KICAgICAgPHZzdGVt
-IHBvcz0iNDczIiB3aWR0aD0iOTUiIC8+CiAgICA8
-L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRh
-Zz0iaHIwNCI+CiAgICAgIDxoc3RlbSBwb3M9IjAi
-IHdpZHRoPSI1MyIgLz4KICAgICAgPGhzdGVtIHBv
-cz0iMzE5IiB3aWR0aD0iNDciIC8+CiAgICAgIDxo
-c3RlbSBwb3M9IjYxMiIgd2lkdGg9IjQ2IiAvPgog
-ICAgICA8dnN0ZW0gcG9zPSIxMTIiIHdpZHRoPSI4
-OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDI4IiB3
-aWR0aD0iOTAiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
-ICA8aGludHNldCBwb2ludFRhZz0iaHIwNSI+CiAg
-ICAgIDxoc3RlbSBwb3M9IjAiIHdpZHRoPSI1MyIg
-Lz4KICAgICAgPGhzdGVtIHBvcz0iMzE5IiB3aWR0
-aD0iNDciIC8+CiAgICAgIDxoc3RlbSBwb3M9IjYx
-MiIgd2lkdGg9IjQ2IiAvPgogICAgICA8dnN0ZW0g
-cG9zPSIxMTIiIHdpZHRoPSI4OCIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iNDczIiB3aWR0aD0iOTUiIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
-dD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:19:00 +0000</string>
+    </dict>
   </lib>
 </glyph>

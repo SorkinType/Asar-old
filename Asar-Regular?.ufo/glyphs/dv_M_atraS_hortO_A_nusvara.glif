@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraShortOAnusvara" format="1">
+  <advance width="320"/>
+  <outline>
+    <component base="dv_Nukta" xOffset="193" yOffset="944"/>
+    <component base="dv_MatraAa"/>
+  </outline>
+</glyph>

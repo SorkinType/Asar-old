@@ -4,7 +4,7 @@
   <unicode hex="0237"/>
   <outline>
     <contour>
-      <point x="94" y="6" type="line" smooth="yes" name="hr00"/>
+      <point x="94" y="6" type="line" name="hr00" smooth="yes"/>
       <point x="94" y="-65"/>
       <point x="87" y="-122"/>
       <point x="38" y="-159" type="curve" smooth="yes"/>
@@ -31,18 +31,17 @@
       <point x="67" y="385"/>
       <point x="94" y="380" type="curve"/>
     </contour>
+    <contour>
+      <point x="125" y="-557" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="125" y="484" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0yMTQiIHdpZHRoPSI2ODEiIC8+CiAgICAg
-IDx2c3RlbSBwb3M9Ijk0IiB3aWR0aD0iODciIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
-dD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:20:05 +0000</string>
+    </dict>
   </lib>
 </glyph>

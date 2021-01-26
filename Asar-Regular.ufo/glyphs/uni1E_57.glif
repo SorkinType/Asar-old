@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E57" format="1">
+  <advance width="524"/>
+  <unicode hex="1E57"/>
+  <outline>
+    <component base="p"/>
+    <component base="dotaccent" xOffset="159"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:08:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

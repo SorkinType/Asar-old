@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Za" format="1">
+  <advance width="764"/>
+  <unicode hex="095B"/>
+  <outline>
+    <component base="dv_Ja"/>
+    <component base="dv_Nukta" xOffset="138" yOffset="61"/>
+  </outline>
+</glyph>

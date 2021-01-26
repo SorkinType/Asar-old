@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="1">
+  <advance width="407"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <component base="dieresis"/>
+    <contour>
+      <point x="204" y="484" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="204" y="658" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:25:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0047"/>
   <outline>
     <contour>
-      <point x="35" y="314" type="curve" smooth="yes" name="hr01"/>
+      <point x="35" y="314" type="curve" name="hr01" smooth="yes"/>
       <point x="35" y="97"/>
       <point x="187" y="-16"/>
       <point x="327" y="-16" type="curve" smooth="yes"/>
@@ -49,36 +49,17 @@
       <point x="191" y="672"/>
       <point x="35" y="534"/>
     </contour>
+    <contour>
+      <point x="323" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="323" y="680" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0xNiIgd2lkdGg9IjU3IiAvPgogICAgICA8
-aHN0ZW0gcG9zPSIyNTIiIHdpZHRoPSI1OSIgLz4K
-ICAgICAgPGhzdGVtIHBvcz0iNjE2IiB3aWR0aD0i
-NTYiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjM1IiB3
-aWR0aD0iOTUiIC8+CiAgICAgIDx2c3RlbSBwb3M9
-IjUxMiIgd2lkdGg9Ijg5IiAvPgogICAgPC9oaW50
-c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9Imhy
-MDIiPgogICAgICA8aHN0ZW0gcG9zPSItMTYiIHdp
-ZHRoPSI1NyIgLz4KICAgICAgPGhzdGVtIHBvcz0i
-MjUyIiB3aWR0aD0iNTkiIC8+CiAgICAgIDxoc3Rl
-bSBwb3M9IjYxNiIgd2lkdGg9IjU2IiAvPgogICAg
-ICA8dnN0ZW0gcG9zPSIzNSIgd2lkdGg9Ijk1IiAv
-PgogICAgICA8dnN0ZW0gcG9zPSI1MDQiIHdpZHRo
-PSI3NiIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
-aW50c2V0IHBvaW50VGFnPSJocjAzIj4KICAgICAg
-PGhzdGVtIHBvcz0iLTE2IiB3aWR0aD0iNTciIC8+
-CiAgICAgIDxoc3RlbSBwb3M9IjI1MiIgd2lkdGg9
-IjU5IiAvPgogICAgICA8aHN0ZW0gcG9zPSI2MTYi
-IHdpZHRoPSI1NiIgLz4KICAgICAgPHZzdGVtIHBv
-cz0iMzUiIHdpZHRoPSI5NSIgLz4KICAgICAgPHZz
-dGVtIHBvcz0iNTEyIiB3aWR0aD0iODkiIC8+CiAg
-ICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:19:00 +0000</string>
+    </dict>
   </lib>
 </glyph>

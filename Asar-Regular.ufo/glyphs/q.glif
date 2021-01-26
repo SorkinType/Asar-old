@@ -4,7 +4,7 @@
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="29" y="195" type="curve" smooth="yes" name="hr00"/>
+      <point x="29" y="195" type="curve" name="hr00" smooth="yes"/>
       <point x="29" y="62"/>
       <point x="117" y="-16"/>
       <point x="220" y="-16" type="curve" smooth="yes"/>
@@ -53,21 +53,17 @@
       <point x="174" y="39"/>
       <point x="120" y="120"/>
     </contour>
+    <contour>
+      <point x="252" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="252" y="484" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0yMTciIHdpZHRoPSI1MSIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iLTE2IiB3aWR0aD0iNTUiIC8+
-CiAgICAgIDxoc3RlbSBwb3M9IjQxOSIgd2lkdGg9
-IjU4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyOSIg
-d2lkdGg9IjkxIiAvPgogICAgICA8dnN0ZW0gcG9z
-PSIzNTciIHdpZHRoPSI4MyIgLz4KICAgIDwvaGlu
-dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:20:05 +0000</string>
+    </dict>
   </lib>
 </glyph>

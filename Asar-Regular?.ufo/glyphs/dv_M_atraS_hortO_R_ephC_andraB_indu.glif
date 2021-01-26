@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraShortORephCandraBindu" format="1">
+  <advance width="320"/>
+  <outline>
+    <component base="dv_MatraCandraERephCandraBindu" xOffset="-49"/>
+    <component base="dv_MatraAa"/>
+  </outline>
+</glyph>

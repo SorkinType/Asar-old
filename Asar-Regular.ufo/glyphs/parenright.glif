@@ -3,5 +3,54 @@
   <advance width="415"/>
   <unicode hex="0029"/>
   <outline>
+    <contour>
+      <point x="328" y="232" type="curve" name="hr00" smooth="yes"/>
+      <point x="328" y="476"/>
+      <point x="231" y="633"/>
+      <point x="157" y="687" type="curve"/>
+      <point x="155" y="687" type="line"/>
+      <point x="155" y="687"/>
+      <point x="155" y="687"/>
+      <point x="155" y="687" type="curve" smooth="yes"/>
+      <point x="155" y="686"/>
+      <point x="155" y="685"/>
+      <point x="155" y="685" type="curve" smooth="yes"/>
+      <point x="155" y="684"/>
+      <point x="129" y="671"/>
+      <point x="129" y="659" type="curve" smooth="yes"/>
+      <point x="129" y="654"/>
+      <point x="132" y="648"/>
+      <point x="139" y="645" type="curve"/>
+      <point x="168" y="619"/>
+      <point x="238" y="460"/>
+      <point x="238" y="229" type="curve" smooth="yes"/>
+      <point x="238" y="-1"/>
+      <point x="168" y="-120"/>
+      <point x="139" y="-146" type="curve"/>
+      <point x="132" y="-150"/>
+      <point x="129" y="-155"/>
+      <point x="129" y="-161" type="curve" smooth="yes"/>
+      <point x="129" y="-172"/>
+      <point x="140" y="-183"/>
+      <point x="154" y="-185" type="curve" smooth="yes"/>
+      <point x="155" y="-185"/>
+      <point x="155" y="-185"/>
+      <point x="155" y="-186" type="curve" smooth="yes"/>
+      <point x="155" y="-187"/>
+      <point x="155" y="-187"/>
+      <point x="155" y="-188" type="curve"/>
+      <point x="155" y="-188"/>
+      <point x="155" y="-188"/>
+      <point x="155" y="-188" type="curve"/>
+      <point x="157" y="-188" type="line"/>
+      <point x="231" y="-134"/>
+      <point x="328" y="-11"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:06:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

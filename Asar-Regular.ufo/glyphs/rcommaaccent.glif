@@ -4,6 +4,12 @@
   <unicode hex="0157"/>
   <outline>
     <component base="r"/>
-    <component base="commaaccent" xOffset="63"/>
+    <component base="commaaccent" xOffset="99"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:26:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

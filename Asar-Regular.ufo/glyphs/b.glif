@@ -44,21 +44,17 @@
       <point x="226" y="41"/>
       <point x="170" y="49"/>
     </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="250" y="1196" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0xNiIgd2lkdGg9IjU3IiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI0MjEiIHdpZHRoPSI1NiIgLz4K
-ICAgICAgPGhzdGVtIHBvcz0iNjU5IiB3aWR0aD0i
-NjQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjU5IiB3
-aWR0aD0iODQiIC8+CiAgICAgIDx2c3RlbSBwb3M9
-IjM3NCIgd2lkdGg9Ijk3IiAvPgogICAgPC9oaW50
-c2V0PgogIDwvaGludFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:20:05 +0000</string>
+    </dict>
   </lib>
 </glyph>

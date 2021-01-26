@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Dd.half" format="1">
+  <advance width="532"/>
+  <outline>
+    <component base="dv_Dda"/>
+    <component base="dv_Halant" xOffset="528"/>
+  </outline>
+</glyph>

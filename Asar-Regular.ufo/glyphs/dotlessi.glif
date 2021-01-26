@@ -4,7 +4,7 @@
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="43" y="20" type="curve" smooth="yes" name="hr00"/>
+      <point x="43" y="20" type="curve" name="hr00" smooth="yes"/>
       <point x="43" y="12"/>
       <point x="46" y="0"/>
       <point x="62" y="0" type="curve" smooth="yes"/>
@@ -29,17 +29,20 @@
       <point x="93" y="47"/>
       <point x="43" y="34"/>
     </contour>
+    <contour>
+      <point x="140" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="252" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="140" y="484" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9IjAiIHdpZHRoPSI0MyIgLz4KICAgICAgPHZz
-dGVtIHBvcz0iMTA4IiB3aWR0aD0iODQiIC8+CiAg
-ICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:20:05 +0000</string>
+    </dict>
   </lib>
 </glyph>

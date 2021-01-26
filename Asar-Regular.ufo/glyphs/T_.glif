@@ -4,7 +4,7 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="170" y="29" type="curve" smooth="yes" name="hr01"/>
+      <point x="170" y="29" type="curve" name="hr01" smooth="yes"/>
       <point x="170" y="21"/>
       <point x="173" y="0"/>
       <point x="189" y="0" type="curve" smooth="yes"/>
@@ -38,7 +38,7 @@
       <point x="36" y="630" type="curve" smooth="yes"/>
       <point x="36" y="577"/>
       <point x="48" y="464"/>
-      <point x="54" y="441" type="curve" smooth="yes" name="hr02"/>
+      <point x="54" y="441" type="curve" name="hr02" smooth="yes"/>
       <point x="56" y="432"/>
       <point x="76" y="420"/>
       <point x="90" y="420" type="curve" smooth="yes"/>
@@ -56,33 +56,20 @@
       <point x="248" y="49"/>
       <point x="170" y="52"/>
     </contour>
+    <contour>
+      <point x="311" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="311" y="340" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="311" y="680" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjAiIHdpZHRoPSI1MSIgLz4KICAgICAgPGhz
-dGVtIHBvcz0iNjEwIiB3aWR0aD0iNDgiIC8+CiAg
-ICAgIDx2c3RlbSBwb3M9IjM2IiB3aWR0aD0iNjki
-IC8+CiAgICAgIDx2c3RlbSBwb3M9IjI3MCIgd2lk
-dGg9IjkwIiAvPgogICAgPC9oaW50c2V0PgogICAg
-PGhpbnRzZXQgcG9pbnRUYWc9ImhyMDIiPgogICAg
-ICA8aHN0ZW0gcG9zPSIwIiB3aWR0aD0iNTEiIC8+
-CiAgICAgIDxoc3RlbSBwb3M9IjYxMCIgd2lkdGg9
-IjQ4IiAvPgogICAgICA8dnN0ZW0gcG9zPSI1NCIg
-d2lkdGg9IjUzIiAvPgogICAgICA8dnN0ZW0gcG9z
-PSIyNzAiIHdpZHRoPSI5MCIgLz4KICAgIDwvaGlu
-dHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJo
-cjAzIj4KICAgICAgPGhzdGVtIHBvcz0iMCIgd2lk
-dGg9IjUxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI2
-MTAiIHdpZHRoPSI0OCIgLz4KICAgICAgPHZzdGVt
-IHBvcz0iMzYiIHdpZHRoPSI2OSIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iMjcwIiB3aWR0aD0iOTAiIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
-dD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:19:00 +0000</string>
+    </dict>
   </lib>
 </glyph>

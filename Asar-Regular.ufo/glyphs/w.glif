@@ -57,19 +57,17 @@
       <point x="30" y="412" type="curve"/>
       <point x="38" y="395" type="line"/>
     </contour>
+    <contour>
+      <point x="340" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="340" y="484" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9IjExIiB3aWR0aD0iLTIxIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI0MTIiIHdpZHRoPSI0NiIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iLTE2IiB3aWR0aD0i
-NzEzIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGlu
-dFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-22 20:20:05 +0000</string>
+    </dict>
   </lib>
 </glyph>

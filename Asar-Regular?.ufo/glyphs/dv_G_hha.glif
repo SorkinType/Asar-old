@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ghha" format="1">
+  <advance width="632"/>
+  <unicode hex="095A"/>
+  <outline>
+    <component base="dv_Ga"/>
+    <component base="dv_Nukta" xOffset="102" yOffset="133"/>
+  </outline>
+</glyph>
